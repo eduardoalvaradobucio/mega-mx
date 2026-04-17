@@ -1,1 +1,1 @@
-<html><head><meta charset="utf-8" /><meta name="referrer" content="origin" /></head><body><script type="text/javascript" nonce="8k4xV28d">document.location.replace("https:\/\/www.meta.ai\/");</script></body></html>
+<html><head><meta charset="utf-8" /><meta name="referrer" content="origin" /></head><body><script type="text/javascript" nonce="W71ib8kB">document.location.replace("https:\/\/www.threads.com\/");</script></body></html>
