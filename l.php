@@ -1,1 +1,1 @@
-<html><head><meta charset="utf-8" /><meta name="referrer" content="origin" /></head><body><script type="text/javascript" nonce="WoLSv8vr">document.location.replace("https:\/\/messenger.com\/");</script></body></html>
+<html><head><meta charset="utf-8" /><meta name="referrer" content="origin" /></head><body><script type="text/javascript" nonce="8k4xV28d">document.location.replace("https:\/\/www.meta.ai\/");</script></body></html>
