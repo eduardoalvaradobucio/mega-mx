@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /><meta name="referrer" content="origin" /></head><body><script type="text/javascript" nonce="WoLSv8vr">document.location.replace("https:\/\/messenger.com\/");</script></body></html>
